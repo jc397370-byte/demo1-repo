@@ -1,2 +1,39 @@
-I'm Jayachandran R,
-From Devakottai
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Grocery Store</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 20px;
+        }
+        input {
+            padding: 5px;
+        }
+        button {
+            padding: 5px 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Welcome to My Grocery Store</h1>
+
+    <h2>Available Products</h2>
+    <ul>
+        <li>Rice</li>
+        <li>Milk</li>
+        <li>Bread</li>
+        <li>Eggs</li>
+        <li>Fruits</li>
+    </ul>
+
+    <h2>Search Product</h2>
+    <input type="text" placeholder="Search grocery item">
+    <button>Search</button>
+
+    <p>Thank you for visiting our store!</p>
+
+</body>
+</html>
